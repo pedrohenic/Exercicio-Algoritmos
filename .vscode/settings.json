@@ -1,0 +1,14 @@
+{
+    "files.encoding": "utf8",
+    "files.autoGuessEncoding": true,
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools",
+        "editor.formatOnSave": true
+    },
+    "C_Cpp.default.cppStandard": "c++17",
+    "editor.formatOnSave": true,
+    "editor.trimAutoWhitespace": true,
+    "files.insertFinalNewline": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4
+}
